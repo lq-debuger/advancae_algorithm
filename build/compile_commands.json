@@ -1,0 +1,7 @@
+[
+{
+  "directory": "E:/code/advance_algorithm/build",
+  "command": "E:\\mingw64\\mingw64\\bin\\x86_64-w64-mingw32-g++.exe    -g   -o CMakeFiles\\test.dir\\sort_greedy_algorithm.cpp.obj -c E:\\code\\advance_algorithm\\sort_greedy_algorithm.cpp",
+  "file": "E:/code/advance_algorithm/sort_greedy_algorithm.cpp"
+}
+]
